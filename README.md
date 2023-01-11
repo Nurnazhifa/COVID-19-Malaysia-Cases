@@ -26,7 +26,7 @@ Project is created with
 Project is: _complete_ 
 
 ## Results
-![Graph](./img/screenshot.png)
+![Graph](https://github.com/Nurnazhifa/COVID-19-Malaysia-Cases/blob/main/graph.png)
 
 ## Architecture
 ![Architecture of the model](https://github.com/Nurnazhifa/COVID-19-Malaysia-Cases/blob/main/model.png)
